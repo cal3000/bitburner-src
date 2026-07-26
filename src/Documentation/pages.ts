@@ -1124,6 +1124,7 @@ import nsDoc_bitburner_office_avgenergy_md from "../../markdown/bitburner.office
 import nsDoc_bitburner_office_avgmorale_md from "../../markdown/bitburner.office.avgmorale.md?raw";
 import nsDoc_bitburner_office_city_md from "../../markdown/bitburner.office.city.md?raw";
 import nsDoc_bitburner_office_employeejobs_md from "../../markdown/bitburner.office.employeejobs.md?raw";
+import nsDoc_bitburner_office_employeenextjobs_md from "../../markdown/bitburner.office.employeenextjobs.md?raw";
 import nsDoc_bitburner_office_employeeproductionbyjob_md from "../../markdown/bitburner.office.employeeproductionbyjob.md?raw";
 import nsDoc_bitburner_office_maxenergy_md from "../../markdown/bitburner.office.maxenergy.md?raw";
 import nsDoc_bitburner_office_maxmorale_md from "../../markdown/bitburner.office.maxmorale.md?raw";
@@ -2732,6 +2733,7 @@ AllPages["nsDoc/bitburner.office.avgenergy.md"] = nsDoc_bitburner_office_avgener
 AllPages["nsDoc/bitburner.office.avgmorale.md"] = nsDoc_bitburner_office_avgmorale_md;
 AllPages["nsDoc/bitburner.office.city.md"] = nsDoc_bitburner_office_city_md;
 AllPages["nsDoc/bitburner.office.employeejobs.md"] = nsDoc_bitburner_office_employeejobs_md;
+AllPages["nsDoc/bitburner.office.employeenextjobs.md"] = nsDoc_bitburner_office_employeenextjobs_md;
 AllPages["nsDoc/bitburner.office.employeeproductionbyjob.md"] = nsDoc_bitburner_office_employeeproductionbyjob_md;
 AllPages["nsDoc/bitburner.office.maxenergy.md"] = nsDoc_bitburner_office_maxenergy_md;
 AllPages["nsDoc/bitburner.office.maxmorale.md"] = nsDoc_bitburner_office_maxmorale_md;

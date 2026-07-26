@@ -10894,6 +10894,8 @@ export interface Office {
   employeeProductionByJob: Record<CorpEmployeePosition, number>;
   /** Positions of the employees */
   employeeJobs: Record<CorpEmployeePosition, number>;
+  /** Positions of the employees as of the next Corporation cycle */
+  employeeNextJobs: Record<CorpEmployeePosition, number>;
 }
 
 /**

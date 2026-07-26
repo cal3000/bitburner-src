@@ -113,6 +113,25 @@ Positions of the employees
 </td></tr>
 <tr><td>
 
+[employeeNextJobs](./bitburner.office.employeenextjobs.md)
+
+
+</td><td>
+
+
+</td><td>
+
+Record&lt;[CorpEmployeePosition](./bitburner.corpemployeeposition.md)<!-- -->, number&gt;
+
+
+</td><td>
+
+Positions of the employees as of the next Corporation cycle
+
+
+</td></tr>
+<tr><td>
+
 [employeeProductionByJob](./bitburner.office.employeeproductionbyjob.md)
 
 

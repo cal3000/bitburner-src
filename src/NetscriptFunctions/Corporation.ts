@@ -609,6 +609,7 @@ export function NetscriptCorporation(): InternalAPI<NSCorporation> {
         totalExperience: office.totalExperience,
         employeeProductionByJob: Object.assign({}, office.employeeProductionByJob),
         employeeJobs: Object.assign({}, office.employeeJobs),
+        employeeNextJobs: Object.assign({}, office.employeeNextJobs),
       };
     },
   };
