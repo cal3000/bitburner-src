@@ -9728,9 +9728,10 @@ export interface OfficeAPI {
    *
    * @param divisionName - Name of the division
    * @param city - Name of the city
+   * @param nextJobs - whether the employeeJobs should be their next/target values. Defaults to false, employeeJobs returning their current values.
    * @returns Office data
    */
-  getOffice(divisionName: string, city: CityName): Office;
+  getOffice(divisionName: string, city: CityName, nextJobs?: boolean): Office;
 
   /**
    * Get the cost to hire AdVert.

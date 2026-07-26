@@ -593,7 +593,7 @@ export function NetscriptCorporation(): InternalAPI<NSCorporation> {
       const researchName = getEnumHelper("CorpResearchName").nsGetMember(ctx, _researchName, "researchName");
       research(getDivision(divisionName), researchName);
     },
-    getOffice: (ctx) => (_divisionName, _cityName) => {
+    getOffice: (ctx) => (_divisionName, _cityName, nextJobs = false) => {
       checkAccess(ctx, CorpUnlockName.OfficeAPI);
       const divisionName = helpers.string(ctx, "divisionName", _divisionName);
       const cityName = getEnumHelper("CityName").nsGetMember(ctx, _cityName);
@@ -608,7 +608,7 @@ export function NetscriptCorporation(): InternalAPI<NSCorporation> {
         avgMorale: office.avgMorale,
         totalExperience: office.totalExperience,
         employeeProductionByJob: Object.assign({}, office.employeeProductionByJob),
-        employeeJobs: Object.assign({}, office.employeeJobs),
+        employeeJobs: Object.assign({}, nextJobs ? office.employeeNextJobs : office.employeeJobs),
       };
     },
   };
