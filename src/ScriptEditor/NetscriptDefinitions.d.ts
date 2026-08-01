@@ -10802,6 +10802,10 @@ interface Product {
   size: number;
   /** A limit on the maximum amount to produce per second */
   productionLimit: number | null;
+  /** whether automatic sale pricing through Market TA.1 is enabled (requires research) */
+  marketTa1: boolean;
+  /** whether automatic sale pricing through Market TA.2 is enabled (requires research) */
+  marketTa2: boolean;
 }
 
 /**

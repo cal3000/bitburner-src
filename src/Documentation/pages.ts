@@ -1186,6 +1186,8 @@ import nsDoc_bitburner_product_desiredsellamount_md from "../../markdown/bitburn
 import nsDoc_bitburner_product_desiredsellprice_md from "../../markdown/bitburner.product.desiredsellprice.md?raw";
 import nsDoc_bitburner_product_developmentprogress_md from "../../markdown/bitburner.product.developmentprogress.md?raw";
 import nsDoc_bitburner_product_effectiverating_md from "../../markdown/bitburner.product.effectiverating.md?raw";
+import nsDoc_bitburner_product_marketta1_md from "../../markdown/bitburner.product.marketta1.md?raw";
+import nsDoc_bitburner_product_marketta2_md from "../../markdown/bitburner.product.marketta2.md?raw";
 import nsDoc_bitburner_product_md from "../../markdown/bitburner.product.md?raw";
 import nsDoc_bitburner_product_name_md from "../../markdown/bitburner.product.name.md?raw";
 import nsDoc_bitburner_product_productionamount_md from "../../markdown/bitburner.product.productionamount.md?raw";
@@ -2795,6 +2797,8 @@ AllPages["nsDoc/bitburner.product.desiredsellamount.md"] = nsDoc_bitburner_produ
 AllPages["nsDoc/bitburner.product.desiredsellprice.md"] = nsDoc_bitburner_product_desiredsellprice_md;
 AllPages["nsDoc/bitburner.product.developmentprogress.md"] = nsDoc_bitburner_product_developmentprogress_md;
 AllPages["nsDoc/bitburner.product.effectiverating.md"] = nsDoc_bitburner_product_effectiverating_md;
+AllPages["nsDoc/bitburner.product.marketta1.md"] = nsDoc_bitburner_product_marketta1_md;
+AllPages["nsDoc/bitburner.product.marketta2.md"] = nsDoc_bitburner_product_marketta2_md;
 AllPages["nsDoc/bitburner.product.md"] = nsDoc_bitburner_product_md;
 AllPages["nsDoc/bitburner.product.name.md"] = nsDoc_bitburner_product_name_md;
 AllPages["nsDoc/bitburner.product.productionamount.md"] = nsDoc_bitburner_product_productionamount_md;
