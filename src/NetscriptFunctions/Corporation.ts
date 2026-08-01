@@ -249,6 +249,8 @@ export function NetscriptCorporation(): InternalAPI<NSCorporation> {
         actualSellAmount: material.actualSellAmount,
         exports: exports,
         productionLimit: material.productionLimit,
+        marketTa1: material.marketTa1,
+        marketTa2: material.marketTa2,
       };
     },
     getProduct: (ctx) => (_divisionName, _cityName, _productName) => {

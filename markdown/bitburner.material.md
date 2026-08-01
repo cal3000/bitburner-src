@@ -208,6 +208,44 @@ Cost to buy material
 </td></tr>
 <tr><td>
 
+[marketTa1](./bitburner.material.marketta1.md)
+
+
+</td><td>
+
+
+</td><td>
+
+boolean
+
+
+</td><td>
+
+whether automatic sale pricing through Market TA.1 is enabled (requires research)
+
+
+</td></tr>
+<tr><td>
+
+[marketTa2](./bitburner.material.marketta2.md)
+
+
+</td><td>
+
+
+</td><td>
+
+boolean
+
+
+</td><td>
+
+whether automatic sale pricing through Market TA.2 is enabled (requires research)
+
+
+</td></tr>
+<tr><td>
+
 [name](./bitburner.material.name.md)
 
 

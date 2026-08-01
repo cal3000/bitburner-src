@@ -895,6 +895,8 @@ import nsDoc_bitburner_material_desiredsellprice_md from "../../markdown/bitburn
 import nsDoc_bitburner_material_exports_md from "../../markdown/bitburner.material.exports.md?raw";
 import nsDoc_bitburner_material_importamount_md from "../../markdown/bitburner.material.importamount.md?raw";
 import nsDoc_bitburner_material_marketprice_md from "../../markdown/bitburner.material.marketprice.md?raw";
+import nsDoc_bitburner_material_marketta1_md from "../../markdown/bitburner.material.marketta1.md?raw";
+import nsDoc_bitburner_material_marketta2_md from "../../markdown/bitburner.material.marketta2.md?raw";
 import nsDoc_bitburner_material_md from "../../markdown/bitburner.material.md?raw";
 import nsDoc_bitburner_material_name_md from "../../markdown/bitburner.material.name.md?raw";
 import nsDoc_bitburner_material_productionamount_md from "../../markdown/bitburner.material.productionamount.md?raw";
@@ -2506,6 +2508,8 @@ AllPages["nsDoc/bitburner.material.desiredsellprice.md"] = nsDoc_bitburner_mater
 AllPages["nsDoc/bitburner.material.exports.md"] = nsDoc_bitburner_material_exports_md;
 AllPages["nsDoc/bitburner.material.importamount.md"] = nsDoc_bitburner_material_importamount_md;
 AllPages["nsDoc/bitburner.material.marketprice.md"] = nsDoc_bitburner_material_marketprice_md;
+AllPages["nsDoc/bitburner.material.marketta1.md"] = nsDoc_bitburner_material_marketta1_md;
+AllPages["nsDoc/bitburner.material.marketta2.md"] = nsDoc_bitburner_material_marketta2_md;
 AllPages["nsDoc/bitburner.material.md"] = nsDoc_bitburner_material_md;
 AllPages["nsDoc/bitburner.material.name.md"] = nsDoc_bitburner_material_name_md;
 AllPages["nsDoc/bitburner.material.productionamount.md"] = nsDoc_bitburner_material_productionamount_md;
